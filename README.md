@@ -1,2 +1,2 @@
 # DataScienceProject
-This is the first data science assignment
+This is the first data science assignment.
